@@ -6,20 +6,29 @@
   margin: 5px;
 }
 
-#form {
-  display: flex;
-  justify-content: center;
-  margin: 10px;
-}
-#form form {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+#text {
+  position: absolute;
+  left: 35%;
+  top: 50px;
+  margin-bottom: 5px;
+  margin-top: 5px;
   width: 100%;
 }
-#form form #text {
-  margin: 5px;
+#text input {
   width: 30%;
+  border-radius: 10px;
+  height: 25px;
+}
+
+#submit {
+  position: absolute;
+  left: 38%;
+  top: 95px;
+  width: 100%;
+}
+#submit input {
+  width: 25%;
+  height: 20px;
 }
 
 #image_index {
