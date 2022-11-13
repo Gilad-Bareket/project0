@@ -1,0 +1,33 @@
+#top_right {
+  display: flex;
+  justify-content: right;
+}
+#top_right a {
+  margin: 5px;
+}
+
+#form {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+#form form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+#form form #text {
+  margin: 5px;
+  width: 30%;
+}
+
+#image_index {
+  display: flex;
+  justify-content: right;
+}
+
+#advanced_index {
+  display: flex;
+  justify-content: right;
+}/*# sourceMappingURL=style.css.map */
