@@ -6,7 +6,7 @@
   margin: 5px;
 }
 
-#text {
+.text {
   position: absolute;
   left: 35%;
   top: 50px;
@@ -14,19 +14,19 @@
   margin-top: 5px;
   width: 100%;
 }
-#text input {
+.text input {
   width: 30%;
   border-radius: 10px;
   height: 25px;
 }
 
-#submit {
+.submit {
   position: absolute;
   left: 38%;
   top: 95px;
   width: 100%;
 }
-#submit input {
+.submit input {
   width: 25%;
   height: 20px;
 }
@@ -39,4 +39,44 @@
 #advanced_index {
   display: flex;
   justify-content: right;
+}
+
+#advanced_submit {
+  position: absolute;
+  left: 38%;
+  top: 180px;
+  width: 100%;
+}
+#advanced_submit input {
+  width: 25%;
+  height: 20px;
+}
+
+#text1 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  margin-left: 8px;
+  width: 100%;
+}
+
+#text2 {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  margin-left: 8px;
+}
+
+#text3 {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  margin-left: 8px;
+}
+
+#text4 {
+  position: absolute;
+  top: 140px;
+  left: 0;
+  margin-left: 8px;
 }/*# sourceMappingURL=style.css.map */
