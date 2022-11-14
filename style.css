@@ -59,12 +59,21 @@
   margin-left: 8px;
   width: 100%;
 }
+#text1 input {
+  margin-left: 76px;
+  width: 40%;
+}
 
 #text2 {
   position: absolute;
   top: 80px;
   left: 0;
   margin-left: 8px;
+  width: 100%;
+}
+#text2 input {
+  margin-left: 10px;
+  width: 40%;
 }
 
 #text3 {
@@ -72,6 +81,11 @@
   top: 110px;
   left: 0;
   margin-left: 8px;
+  width: 100%;
+}
+#text3 input {
+  margin-left: 52px;
+  width: 40%;
 }
 
 #text4 {
@@ -79,4 +93,9 @@
   top: 140px;
   left: 0;
   margin-left: 8px;
+  width: 100%;
+}
+#text4 input {
+  width: 40%;
+  margin-left: 45px;
 }/*# sourceMappingURL=style.css.map */
