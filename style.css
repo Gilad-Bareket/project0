@@ -98,4 +98,31 @@
 #text4 input {
   width: 40%;
   margin-left: 45px;
+}
+
+#submit_button {
+  background-color: blue;
+  color: white;
+}
+
+#google_search {
+  position: absolute;
+  left: 53%;
+  top: 95px;
+  width: 100%;
+}
+#google_search input {
+  width: 25%;
+  height: 20px;
+}
+
+#lucky {
+  position: absolute;
+  top: 95px;
+  left: 22%;
+  width: 100%;
+}
+#lucky input {
+  width: 27%;
+  height: 20px;
 }/*# sourceMappingURL=style.css.map */
